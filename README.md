@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rem 👋</h1>
+<h2>Hi, I'm Rem 👋</h2>
 
 
 ### 👨‍💼 About Me
@@ -11,9 +11,20 @@
 
 ### 🧰 Tech Stack
 
-- **Frontend**: Vue (Quasar, PrimeVue), Tailwind
-- **Backend**: Laravel, PHP, Spring Boot, Java
-- **Database**: MySQL, SQL Server, PostgreSQL
+- **Frontend**:
+  - HTML
+  - CSS
+    - Tailwind
+  - JavaScript
+    - Vue : UI Libraries (Quasar, PrimeVue)
+    - TypeScript
+- **Backend**:
+  - Java
+    - Spring Boot
+  - PHP
+    - Laravel
+- **Database**:
+  - MySQL, SQL Server, PostgreSQL
 
 ---
 
@@ -26,18 +37,12 @@
 
 ### 🌱 Currently Learning
 
-- Spring Boot advanced features
-- Building scalable microservices
+- Spring Boot
 
 ---
 
 ### 📫 Let's Connect!
 
-- 📧 [rem.ceralde@gmail.com]
-- 🌐 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jeremiah-ceralde-67606271/))
+- 📧 [Gmail](rem.ceralde@gmail.com)
+- 🌐 [LinkedIn](https://linkedin.com/in/jeremiah-ceralde-67606271)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your-username's GitHub stats"/>
-</p>
