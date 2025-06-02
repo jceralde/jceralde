@@ -38,11 +38,3 @@
 ### 🌱 Currently Learning
 
 - Spring Boot
-
----
-
-### 📫 Let's Connect!
-
-- 📧 [Gmail](rem.ceralde@gmail.com)
-- 🌐 [LinkedIn](https://linkedin.com/in/jeremiah-ceralde-67606271)
-
